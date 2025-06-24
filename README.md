@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Richard | Estudante de Sistemas de Informação</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,github,python,nmap,wireshark,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,github,python,wireshark" />
 </p>
 
 ---
@@ -25,36 +25,10 @@ Sou estudante de **Sistemas de Informação**, com foco em:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="180">
-</p>
-
----
-
-### 🐍 Snake Game dos meus commits
-
-<p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/raw/output/github-snake.svg" alt="snake gif" />
-</p>
-
----
-
-### 🛠️ Ferramentas que uso
-
-- 💻 Linux (Ubuntu, Kali)
-- 🧰 Bash, Git e GitHub
-- 📦 VirtualBox, Wireshark, Netcat, Nmap
-- 💡 Aprendizado contínuo com projetos no GitHub
-
----
-
 ### 📬 Contato
 
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- Email: seuemail@exemplo.com
+- LinkedIn: [linkedin.com/in/seu-usuario]([(https://www.linkedin.com/in/richarddss/))
+- Email: richard.david2004@hotmail.com
 
 ---
 
