@@ -27,7 +27,7 @@ Sou estudante de **Sistemas de Informação**, com foco em:
 
 ### 📬 Contato
 
-- LinkedIn: [linkedin.com/in/seu-usuario]([(https://www.linkedin.com/in/richarddss/)])
+- LinkedIn: [https://www.linkedin.com/in/richarddss/]
 - Email: richard.david2004@hotmail.com
 
 ---
