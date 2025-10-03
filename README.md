@@ -21,8 +21,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AKMzin/AKMzin/output/snake.svg" alt="Snake animation" />
-
 ###
 
 > "Redes não são só cabos — são conexões de conhecimento."
