@@ -31,7 +31,7 @@
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| [**AKM Commands**](https://github.com/AKMzin/AKM_final) | Launcher interativo de diagnóstico de rede com ping, netstat, nslookup e systeminfo | `Batch` `CMD` `Windows` |
+| [**AKM Commands**](https://github.com/AKMzin/AKM_COMMANDS) | Launcher interativo de diagnóstico de rede com ping, netstat, nslookup e systeminfo | `Batch` `CMD` `Windows` |
 
 ---
 
