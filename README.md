@@ -1,26 +1,53 @@
-<h1 align="center">🌐 Richard | Estudante de Sistemas de Informação</h1>
+<h1 align="center">👋 Olá, eu sou o Richard</h1>
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  />
+<p align="center">
+  <b>Estudante de Sistemas de Informação · Foco em NOC, Redes e Cibersegurança</b>
+</p>
 
-###
-
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/richarddss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=AKMzin&style=for-the-badge&color=1D9E75&label=Visitas" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKMzin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AKMzin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+> *"Redes não são só cabos — são conexões de conhecimento."*
 
-###
+---
 
-<br clear="both">
+## 📌 Sobre mim
 
-###
+- 🎓 Cursando **Sistemas de Informação**
+- 🖥️ Estudando diagnóstico de redes, monitoramento e segurança
+- 🛠️ Criando ferramentas práticas para estudo de NOC
+- 🎯 Objetivo: atuar como **Analista NOC Jr.**
+- 📍 Brasil
 
-> "Redes não são só cabos — são conexões de conhecimento."
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| [**AKM Commands**](https://github.com/AKMzin/AKM_final) | Launcher interativo de diagnóstico de rede com ping, netstat, nslookup e systeminfo | `Batch` `CMD` `Windows` |
+
+---
+
+## 🧠 Stack & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <i>Sempre aprendendo, sempre conectado. 🌐</i>
+</p>
